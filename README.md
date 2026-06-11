@@ -3,17 +3,17 @@ hi Spring fans! In this installment we take a look at the wild and wacky world o
 
 
 
-api versioning
-declarative interface clients
-repository aot
-resilience methods
-modularity with spring modulith
-BeanRegistrar
-security customizers
-mfa
-webauthn + passkeys
-one time tokens
-jspecify.dev
-ollama + ai
-skills + ai
-opentelemetry
+* api versioning
+* declarative interface clients
+* repository aot
+* resilience methods
+* modularity with spring modulith
+* `BeanRegistrar`
+* security customizers
+* mfa
+* webauthn + passkeys
+* one time tokens
+* jspecify.dev
+* ollama + ai
+* skills + ai
+* opentelemetry
